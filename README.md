@@ -42,5 +42,10 @@
 _italic_
 __Bold__
 
+## Strike
+
+~Strike~
+
+
 
 Just a test 
