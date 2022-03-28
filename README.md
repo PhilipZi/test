@@ -46,6 +46,20 @@ __Bold__
 
 ~Strike~
 
+## Links
+
+[title of the link](htttp://www.neuefische.de)
+
+[neuefische][neuefische]
+
+[google] ist toll 
+
+
+
 
 
 Just a test 
+
+[neuefische]: https://www.neuefische.de/
+[google]: https://www.google.de/?hl=de
+
